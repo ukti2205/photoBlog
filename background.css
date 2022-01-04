@@ -1,0 +1,32 @@
+/* section{
+    width:80%;
+    height:600px;
+    background-image:url(https://images.unsplash.com/photo-1468277799724-b8ecdfa2cd7a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGZyaWVuZHNoaXAlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
+    margin:0 auto;
+    background-size:cover ;
+}
+h1{
+    font-size:100px;
+    color:black;
+    text-align: center;
+}
+body{
+    font-family: 'Dancing Script', cursive;
+} */
+img{
+    width:30%;
+    margin:20px;
+    border-width:3px ;
+    border-color:cornflowerblue;
+    border-style:solid;
+}
+nav{
+    width:30%;
+    margin-left: 22px;
+    font-size: 1.5em;
+    text-transform:uppercase;
+    border-bottom: 2px solid #e6ffff;
+    padding:1.2em 0;
+    font-family: 'Mochiy Pop One', sans-serif;
+
+}
